@@ -70,10 +70,10 @@
         <img ng-src="{{ x.photo_url }}"/ style="width: 200px; float: left;">
         <h3>{{ x.candidate_name }}</h3>
         <h4>{{ x.office }}</h4>
-        <div ng-repeat="i in x.issues">
-          <p>{{ i.issue_name }}</p>
-          <p>{{ i.issue_text }}</p>
-        </div>
+        <dl ng-repeat="i in x.issues">
+          <dt>{{ i.issue_name }}</dt>
+          <dd>{{ i.issue_text }}</dd>
+        </dl>
       </div>
     </div>
  </section>
