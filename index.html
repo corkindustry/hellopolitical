@@ -34,14 +34,17 @@
     </div>
     </div>
   <section>
-    <div ng-repeat="x in candidates" class="transbox">
+    <div>
+    <div ng-repeat="x in candidates" class="transbox" style="display:inline-block">
       <p>{{ x.candidate_name }}</p>
       <p>{{ x.office }}</p>
       <p>{{ x.issues }}</p>
       <p>{{ x.bio }} </p>
       <p>{{ x }}</p>
     </div>
+    </div>
  </section>
+
     <!--/div-->
   </body>
 </html>
