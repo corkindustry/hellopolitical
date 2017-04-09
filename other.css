@@ -9,8 +9,10 @@ background-size: cover;
 }*/
 
 div.background {
-    background: url(voting_booth_bg.jpeg) repeat;
+    background: url(voting_booth_bg.jpeg);
     border: 2px solid black;
+    width: 100%;
+    height: 100%;
 }
 
 div.transbox {
