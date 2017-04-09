@@ -1,5 +1,34 @@
 [
    {
+      "candidate_name":"Jim Wayne",
+      "bio":"Married to Debbie Scherer Wayne. Pres, Wayne Corp, providers of employee assistance and mental health programs. Roman Catholic. Maryknoll College, BA. Maryknoll School of Theology, MA. Smith College School for Social Work, MSW. Spalding Univ, MFA. Louisville Coalition for the Homeless. KY Soc for Clinical Social Work, past Pres. Natl Assoc of Social Workers. Metropolitan Housing Coalition. KY Housing Policy Committee. Airport Neighbors' Alliance Inc. Community Catholic Ctr, Bd Chair. Sierra Club. Natl Trust for Historic Preservation. KY for the Commonwealth. Gov Blue Ribbon Commission on Tax Reform 2012. The Unfinished Man, Fleur-de-Lis Press, 2016, Author",
+      "photo_url":"http://www.lrc.ky.gov/pubinfo/thumbnails/House35.jpg",
+      "office":"State Representative",
+      "party":"Republican Party",
+      "issues":[
+         {
+            "issue_name":"Drug Usage",
+            "issue_text":"I believe that the Office of Drug Control Policy should have more power to reschedule a substance."
+         },
+         {
+            "issue_name":"Felon Voting",
+            "issue_text":"I believe that we need to reform and improve the process of allowing felons to vote in Kentucky."
+         },
+         {
+            "issue_name":"House Rule 49",
+            "issue_text":"I believe that House Rule 49 is used for obstruction and slows the legislative process."
+         },
+         {
+            "issue_name":"Home Rule",
+            "issue_text":"I believe that the State Legislature to respect the home rule of Louisville and other metro areas."
+         },
+         {
+            "issue_name":"Midwifery",
+            "issue_text":"Midwives should have a respected and regulated profession within the commonwealth."
+         }
+      ]
+   },
+   {
       "candidate_name":"Calvin  Sidle ",
       "bio":"I'm a big need and I'd like to fix the world.",
       "photo_url":"http://d229l5sflpl9cp.cloudfront.net/canphoto/167515_lg.jpg",
@@ -63,35 +92,6 @@
          {
             "issue_name":"Healthcare",
             "issue_text":"Folks here in Western Kentucky deserve access to quality health care. Obamacare is not the answer and will continue to hurt small businesses, individuals and our overall economy."
-         }
-      ]
-   },
-   {
-      "candidate_name":"Jim Wayne",
-      "bio":"Married to Debbie Scherer Wayne. Pres, Wayne Corp, providers of employee assistance and mental health programs. Roman Catholic. Maryknoll College, BA. Maryknoll School of Theology, MA. Smith College School for Social Work, MSW. Spalding Univ, MFA. Louisville Coalition for the Homeless. KY Soc for Clinical Social Work, past Pres. Natl Assoc of Social Workers. Metropolitan Housing Coalition. KY Housing Policy Committee. Airport Neighbors' Alliance Inc. Community Catholic Ctr, Bd Chair. Sierra Club. Natl Trust for Historic Preservation. KY for the Commonwealth. Gov Blue Ribbon Commission on Tax Reform 2012. The Unfinished Man, Fleur-de-Lis Press, 2016, Author",
-      "photo_url":"http://www.lrc.ky.gov/pubinfo/thumbnails/House35.jpg",
-      "office":"State Representative",
-      "party":"Republican Party",
-      "issues":[
-         {
-            "issue_name":"Drug Usage",
-            "issue_text":"I believe that the Office of Drug Control Policy should have more power to reschedule a substance."
-         },
-         {
-            "issue_name":"Felon Voting",
-            "issue_text":"I believe that we need to reform and improve the process of allowing felons to vote in Kentucky."
-         },
-         {
-            "issue_name":"House Rule 49",
-            "issue_text":"I believe that House Rule 49 is used for obstruction and slows the legislative process."
-         },
-         {
-            "issue_name":"Home Rule",
-            "issue_text":"I believe that the State Legislature to respect the home rule of Louisville and other metro areas."
-         },
-         {
-            "issue_name":"Midwifery",
-            "issue_text":"Midwives should have a respected and regulated profession within the commonwealth."
          }
       ]
    },
