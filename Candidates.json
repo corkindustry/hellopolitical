@@ -1,8 +1,5 @@
-{
-	"table": "UnknownTable",
-	"rows":
-	[
-		{
+[
+	{
 			"candidate_name": "Michael O. Caperton ",
 			"candidate_bio": null,
 			"candidate_url": null,
@@ -1998,4 +1995,3 @@
 			"party_name": "Write-In"
 		}
 	]
-}
