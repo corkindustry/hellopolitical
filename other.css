@@ -39,6 +39,7 @@ div.transbox {
     /*opacity: 0.85;
     filter: alpha(opacity=85); /* For IE8 and earlier */
     text-align: center;
+    border-radius: 10px;
 }
 
 /*div.transbox div {
