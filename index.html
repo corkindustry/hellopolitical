@@ -71,7 +71,7 @@
         <h3>{{ x.candidate_name }}</h3>
         <h4>{{ x.office }}</h4>
         <div class="issues">
-          <dl ng-repeat="i in x.issues">
+          <dl ng-repeat="i in x.issues" style="text-align: left;">
             <dt>{{ i.issue_name }}</dt>
             <dd>{{ i.issue_text }}</dd>
           </dl>
