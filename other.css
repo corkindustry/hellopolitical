@@ -11,7 +11,7 @@ background-size: cover;
 .cards {
   display: inline-block;
   width: 600px;
-  height: 500px;
+  height: auto;
   background-color: lightgrey;
   margin: 10px;
   padding: 10px;
@@ -21,7 +21,7 @@ background-size: cover;
 
 .cards .issues {
     position: relative;
-    width: 300px;
+    width: 350px;
     margin-top: 30px;
     float: right;
 }
