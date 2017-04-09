@@ -8,6 +8,11 @@ background: url(voting_booth_bg.jpeg) no-repeat center center fixed;
 background-size: cover;
 }
 
+section {
+  display: inline-block;
+  width: 30%;
+}
+
 div.background {
     background: url(voting_booth_bg.jpeg);
     border: 2px solid black;
