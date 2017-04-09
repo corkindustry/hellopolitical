@@ -22,7 +22,7 @@ div.transbox {
     text-align: center;
 }
 
-div.transbox p {
+div.transbox div {
     margin: 5%;
     height: 90%;
     font-weight: bold;
