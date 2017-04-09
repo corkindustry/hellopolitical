@@ -1,15 +1,15 @@
 @charset "utf-8";
 
-body { 
+/*body { 
 background: url(voting_booth_bg.jpeg) no-repeat center center fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
-}
+}*/
 
 div.background {
-    background: url(klematis.jpg) repeat;
+    background: url(voting_booth_bg.jpeg) repeat;
     border: 2px solid black;
 }
 
