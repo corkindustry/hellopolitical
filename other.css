@@ -14,6 +14,7 @@ div.background {
 }
 
 div.transbox {
+    position: fixed;
     margin: 30px;
     width: 1024 px;
     height: 768 px;
