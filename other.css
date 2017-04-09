@@ -26,9 +26,9 @@ div.transbox {
     position: relative;
     margin: 30px 30px 30px 30px ;
     padding: 20px;
-    background-color: #ffffff;
+    background: rgba(255, 255, 255, 0.85);
     border: 1px solid black;
-    opacity: 0.85;
+    /*opacity: 0.85;
     filter: alpha(opacity=85); /* For IE8 and earlier */
     text-align: center;
 }
