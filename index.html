@@ -25,17 +25,17 @@
     
   <!--div class="background"-->
   <div class="transbox">
-       <div><img src="HP1.png"></div>
-       <br/><br/>
-       <h1>I want to find my candidates who care about...</h1>
-       <form class="form-inline my-2 my-lg-0">
-       <input class="form-control mr-sm-2" type="text" placeholder="Search"><br/>
-       <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
-       </form>
+    <p><img src="HP1.png"></p>
+    <h1>I want to find my candidates who care about...</h1>
+         <form class="form-inline my-2 my-lg-0">
+         <input class="form-control mr-sm-2" type="text" placeholder="Search"><br/>
+         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+        </form>
+     
     </div>
     <div ng-repeat="x in candidates">
       <p>{{ x.candidate_name }}</p>
     </div>
-  </div>
+    <!--/div-->
   </body>
 </html>
