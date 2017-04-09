@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 html { 
-background: url(images/voting_booth_bg.jpeg) no-repeat center center fixed; 
+background: url(voting_booth_bg.jpeg) no-repeat center center fixed; 
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
