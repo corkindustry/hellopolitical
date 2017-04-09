@@ -16,8 +16,8 @@ div.background {
 div.transbox {
     position: fixed;
     margin: 30px;
-    width: 1024 px;
-    height: 768 px;
+    width: 90%;
+    height: 90%;
     background-color: #ffffff;
     border: 1px solid black;
     opacity: 0.85;
