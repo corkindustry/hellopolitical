@@ -20,7 +20,7 @@ background-size: cover;
 .cards .issues {
     position: relative;
     width: 300px;
-    border: 1px solid black;
+    top-margin: 30px;
     float: right;
 }
 
