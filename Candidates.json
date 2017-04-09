@@ -1,8 +1,69 @@
-[{
-  "candidate_name": "Jonah O'Neil", 
-  "party": "Independent", 
-  "bio": "blah blah blah", 
-  "office": "City Council", 
-  "photo_url": ""
-}]
-  
+[
+   {
+      "candidate_name":"Calvin  Sidle ",
+      "bio":null,
+      "photo_url":null,
+      "office":"US Representative",
+      "partyparty":"Democratic Party",
+      "issues":[
+         {
+            "issue_name":"Climate Change",
+            "issue_text":"We should be acting to stop the damage to our environment"
+         },
+         {
+            "issue_name":"Drug Problem",
+            "issue_text":"Improved treatment options for addiction"
+         },
+         {
+            "issue_name":"Education Reform",
+            "issue_text":"Improving budgets for public schools"
+         },
+         {
+            "issue_name":"Healthcare",
+            "issue_text":"Protect and improve the Affordable Care Act"
+         }
+      ]
+   },
+   {
+      "candidate_name":"Morgan  McGarvey ",
+      "bio":null,
+      "photo_url":null,
+      "office":"State Senator",
+      "party":"Democratic Party",
+      "issues":[
+         {
+            "issue_name":"Climate Change",
+            "issue_text":"I've repeatedly brought utility and environmental leaders from across the state to the same table, to figure out how we can move ahead"
+         },
+         {
+            "issue_name":"Education Reform",
+            "issue_text":"This year's proposed campus budget cuts were, as one president put it, draconian. We must do better."
+         },
+         {
+            "issue_name":"Healthcare",
+            "issue_text":"We should turn to HSAs to protect the citizens of kentucky"
+         }
+      ]
+   },
+   {
+      "candidate_name":"Suzanne  Miles ",
+      "bio":null,
+      "photo_url":null,
+      "office":"State Representative",
+      "party":"Republican Party",
+      "issues":[
+         {
+            "issue_name":"Education Reform",
+            "issue_text":"a world-class education is the best way we can prepare our children for the twenty-first century workforce."
+         },
+         {
+            "issue_name":"Gun Control",
+            "issue_text":"I support gun owners and will stand up for our God-given Second Amendment rights."
+         },
+         {
+            "issue_name":"Healthcare",
+            "issue_text":"Folks here in Western Kentucky deserve access to quality health care. Obamacare is not the answer and will continue to hurt small businesses, individuals and our overall economy."
+         }
+      ]
+   }
+]
