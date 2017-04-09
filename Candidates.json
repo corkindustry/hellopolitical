@@ -29,31 +29,6 @@
       ]
    },
    {
-      "candidate_name":"Calvin  Sidle ",
-      "bio":"I'm a big need and I'd like to fix the world.",
-      "photo_url":"http://d229l5sflpl9cp.cloudfront.net/canphoto/167515_lg.jpg",
-      "office":"US Representative",
-      "party":"Democratic Party",
-      "issues":[
-         {
-            "issue_name":"Climate Change",
-            "issue_text":"We need to fix it."
-         },
-         {
-            "issue_name":"Drug Usage",
-            "issue_text":"We need to fix it."
-         },
-         {
-            "issue_name":"Education Reform",
-            "issue_text":"We need to fix it."
-         },
-         {
-            "issue_name":"Infrastructure",
-            "issue_text":"We need to fix it."
-         }
-      ]
-   },
-   {
       "candidate_name":"Morgan McGarvey ",
       "bio":"After graduating from duPont Manual High School and the University of Missouri's journalism program, Morgan earned a law degree from the University of Kentucky. Early political experience came in campaigns on behalf of Ben Chandler, whose Washington congressional office he helped to open, and Jack Conway, for whom he focused on consumer protection in the attorney general's office. Morgan began his legal career at Frost, Brown, Todd in Louisville, served as an assistant attorney general in Frankfort and now practices at Morgan & Pottinger, a firm founded by his grandfather. He volunteers in the Louisville Bar Association's Domestic Violence Advocacy Program.",
       "photo_url":"https://static1.squarespace.com/static/579a45a2d2b857d0179051df/57f1a9902e69cf154bc7472c/58d46b261b631bcd655de146/1490318444957/17.jpg?format=750w",
@@ -121,7 +96,32 @@
          {
             "issue_name":"Kittens",
             "issue_text":"Kittens are pretty awesome, but inferior to dogs."
+         },
+   {
+      "candidate_name":"Calvin  Sidle ",
+      "bio":"I'm a big need and I'd like to fix the world.",
+      "photo_url":"http://d229l5sflpl9cp.cloudfront.net/canphoto/167515_lg.jpg",
+      "office":"US Representative",
+      "party":"Democratic Party",
+      "issues":[
+         {
+            "issue_name":"Climate Change",
+            "issue_text":"We need to fix it."
+         },
+         {
+            "issue_name":"Drug Usage",
+            "issue_text":"We need to fix it."
+         },
+         {
+            "issue_name":"Education Reform",
+            "issue_text":"We need to fix it."
+         },
+         {
+            "issue_name":"Infrastructure",
+            "issue_text":"We need to fix it."
          }
+      ]
+   }
       ]
    }
 ]
