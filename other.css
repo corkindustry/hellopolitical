@@ -27,7 +27,7 @@ background-size: cover;
 }
 
 div.background {
-    background: url(voting_booth_bg.jpeg);
+    background: url(voting_booth_blur.jpg);
     border: 2px solid black;
     box-shadow: 3px 3px 15px -2px rgba(0,0,0,0.75);
 }
