@@ -1,0 +1,2001 @@
+{
+	"table": "UnknownTable",
+	"rows":
+	[
+		{
+			"candidate_name": "Michael O. Caperton ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Danny  Evans ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "John T. Alexander ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "James "Jimmy" Craft II.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Darrell  Hall ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Deanna Wise Henschel ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Clifton A. Boswell ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Susan Montalvo Gesser ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Julie Hawes Gordon ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Angela L. Thompson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Steve  Emery ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Doreen S. Goodwin ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Michael  Pate ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Joan Deaton Grefer ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Kimberly Blair Walson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Elizabeth Elkins Bond ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Gina Kay Calvert ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Lauren Adams Ogden ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Clint J. Harris ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Monica  Rice-Smith ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Circuit Judge Family Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Cameron J. Blau ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Joseph F. Grimme ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "John C. Hayden ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Andrea  Janovic ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Abby  Voelker ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Daniel  Farmer ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Jonathon C. Lee ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Scott  Lisenbee ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Danny Lee Lunsford Jr.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "John A. Cook ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Bob  Heleringer ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Tanisha Ann Hickerson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Jim  Lesousky ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Sara Michael Nicholson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Tom  Van De Rostyne ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Stephanie C. Willis ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "J. Gabriel Pendleton ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Kathryn M. Thomas ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Jill  Brady ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Kurt R. Denton ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Anita  Mindrup-Ivie ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Andrew M. Powell ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Don  Thompson Jr.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "District Judge",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Glenn  Acree ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Justice of the Supreme Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Larry  VanMeter ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "Justice of the Supreme Court",
+			"party_name": "Nonpartisan"
+		},
+		{
+			"candidate_name": "Hillary Rodham Clinton ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Donald J. Trump ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Evan  McMullin ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Independent"
+		},
+		{
+			"candidate_name": "Gary  Johnson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Libertarian Party"
+		},
+		{
+			"candidate_name": "Darrell L. Castle ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Santa Roy A. Clark ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Scott  Cubbler ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Richard  Duncan ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Craig  Ellis ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Cherunda  Fox ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Ben  Hartnell ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Tom  Hoefling ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Denny Carroll Jackson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Chris  Keniston ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Laurence  Kotlikoff ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "William Martin Ling ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Richard Turner Luesing Jr.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Joseph  Maldonado ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Michael A. Maturen ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "David  Perry ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Marshall  Schoenke ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Mike  Smith ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Timothy Allen Stevens ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Sheila "Samm" Tittle ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Anthony J. Valdivia ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Jerry  White ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Daniel Paul Zutler ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Jill  Stein ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "Green Party"
+		},
+		{
+			"candidate_name": "Rocky Roque De La Fuente ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "President of the United States",
+			"party_name": "American Delta Party"
+		},
+		{
+			"candidate_name": "Michael R. Murphy ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Steven Jack Rudy ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jesse Edward Wright ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Richard  Heath ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Gerald  Watkins ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Joni S. Hogancamp ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Lynn  Bechler ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Donald George Ellis ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "David  Ramey ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Kenny  Imes ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Will R. Coursey ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Paula Rush Robinson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "David P. Watson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Libertarian Party"
+		},
+		{
+			"candidate_name": "Joy  Gray ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Suzanne  Miles ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jeffery R. Taylor ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Walker Wood Thomas ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Myron B. Dossett ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Dean  Schamore ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "T W Shortt ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "David A. Watkins ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Robert M.  "Robby" Mills ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "James R.  "Jim" Townsend ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Jim  Gooch Jr.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jim  Glenn ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "D J  Johnson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Tommy  Thompson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Matt  Castlen ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Brent  Yonts ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Melinda Gibbons Prunty ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Martha Jane King ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Jason  Petrie ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jim  DeCesare ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Tim  Moore ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "John Wayne Smith ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Michael Lee Meredith ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jody  Richards ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Melinda  Hill ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Bart  Rowland ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Wilson  Stone ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Danny J. Basil ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Steve  Riley ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Terry  Mills ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "William Brandon Reed ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Michael D. Dile ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Jim  DuPlessis ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Russell  Webber ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jeff  Greer ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Rachelle  Frazier ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Charles W. Miller ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Michael  Payne ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Kevin D. Bratcher ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Tom  Burch ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Waymen  Eddings ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Steve  Riggs ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Sarah  Provancher ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Phil  Moffett ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Rob  Walker ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Jason Michael Nemes ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Mary Lou Marzian ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Jim  Wayne ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Jerry T. Miller ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jeffery M. Donohue ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Mark  Wilson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "McKenzie  Cantrell ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Denver "Denny" Butler ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Russ  Meyer ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Robert L. Gullette III.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Dennis L. Horlander ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "George  Demic ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Attica Woodson Scott ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Reginald K. Meeks ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "James F. Howland ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Darryl T. Owens ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "John Mark Owen ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Joni  Jenkins ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Pam  Sigler ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Stan  Lee ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Alan  Gentry ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Eric  Crump ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Rick W. Rand ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Maria  Sorolis ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Ken  Fleming ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Linda Howlett Belcher ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Dan  Johnson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jennifer L. Stepp ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "James  DeWeese ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "D. Chad McCoy ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "John "Bam" Carney ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Ken  Upchurch ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "James M. Sargent ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "James A. Tipton ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Bill  Noelker ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Daniel B. Elliott ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Tobie C. Brown ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Kim  King ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "James  Kay ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Daniel A. Fister ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Derrick W. Graham ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Cyndi Powell Skellie ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Rob  Rothenburger ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "David W. Osborne ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Sal  Santoro ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Kevin  Napier ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Brian E. Linder ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Chuck  Tackett ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Phillip  Pratt ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Diane  St. Onge ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Lucas  Deaton ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Kimberly Poore Moser ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Arnold R. Simpson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Addia Kathryn Wuchner ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Dennis  Keene ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Matt  Teaford ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Joseph M. Fischer ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Adam  Koenig ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "John  Sims Jr.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "John  VanMeter ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jonathan  Shell ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Sannie  Overly ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Curtis  Kenimer ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "John M. Hendricks ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Donna  Mayfield ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "James E. Davis ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "David  Hale ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Kelly M. Flood ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Gary  McCollum ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Ruth Ann Palumbo ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "George A. Brown Jr.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Thomas M. McKee ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Mark  Hart ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Susan  Westrom ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Ken  Kearns ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "David  Meade ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Rita H. Smart ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "C. Wesley Morgan ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Bill  Conn ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Regina Petrey Bunch ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jeff  Hoover ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Fitz  Steele ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Chris  Fugate ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Tommy  Turner ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jim  Stewart ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Rick  Nelson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Chad  Shannon ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Robert J. Benvenuti III.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Marie L. Rader ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Tim  Couch ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Cluster  Howard ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Gary "Toby" Herald ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "John W. Short ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "John C. Blanton ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Chris  Harris ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Norma  Kirk-McCormick ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Angie  Hatton ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Frank D. Justice II.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Gregory D. Stumbo ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Larry D. Brown ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Josh  McGuire ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Jill  York ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Hubert  Collins ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "William Scott Wells ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Lew  Nicholls ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Danny R. Bentley ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Rocky  Adkins ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Wynetta "Wendy" Fletcher ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Kevin P. Sinnette ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Eric  Chaney ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Stan  Humphries ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Whitney H. Westerfield ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Leslie J. Stith ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Stephen L. Meredith ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Julian M. Carroll ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "David P. Givens ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "John  Schickel ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Leah  King ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Independent"
+		},
+		{
+			"candidate_name": "Reggie  Thomas ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Rick  Girdler ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Charlie  Hoffman ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Damon  Thayer ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Morgan  McGarvey ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Larry  West ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Janice  Odom ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Albert  Robinson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Chris  McDaniel ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Robert  Stivers ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Charles L. Linville III.",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Stephen  West ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Johnny Ray Turner ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Ray  Jones ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Gerald A. Neal ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Shenita  Rickman ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Denise  Harper Angel ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Perry B. Clark ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "State Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Samuel L. Gaskins ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "James R. Comer ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Terry  McIntosh ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "S. Brett Guthrie ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "John A. Yarmuth ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Harold  Bratcher ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Everett  Corley ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Everett  Corley ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Forefathers Party"
+		},
+		{
+			"candidate_name": "Calvin  Sidle ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Thomas  Massie ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Harold "Hal" Rogers ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Nancy Jo Kemper ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Andy  Barr ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Representative",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Jim  Gray ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Senator",
+			"party_name": "Democratic Party"
+		},
+		{
+			"candidate_name": "Rand  Paul ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Senator",
+			"party_name": "Republican Party"
+		},
+		{
+			"candidate_name": "Angel  Doss ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Senator",
+			"party_name": "Write-In"
+		},
+		{
+			"candidate_name": "Billy Ray Wilson ",
+			"candidate_bio": null,
+			"candidate_url": null,
+			"office_name": "US Senator",
+			"party_name": "Write-In"
+		}
+	]
+}
