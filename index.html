@@ -24,18 +24,23 @@
 </nav-->
     
  <!--div class="background" style="width:100%; height:100%;"-->
-  <div class="transbox">
-    <p><img src="HP1.png"></p>
+  <div class="transbox modal-dialog modal-sm">
+    <div><img src="HP1.png">
     <h1>I want to find my candidates who care about...</h1>
          <form class="form-inline my-2 my-lg-0">
          <input class="form-control mr-sm-2" type="text" placeholder="Search"><br/>
          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
         </form>
-     
+    </div>
     </div>
     <div ng-repeat="x in candidates">
       <p>{{ x.candidate_name }}</p>
+<<<<<<< HEAD
       <p>{{ x.office }}</p>
+=======
+      <p>{{ x.issues }}</p>
+      <p>{{ x.bio }} </p>
+>>>>>>> origin/gh-pages
     </div>
     <!--/div-->
   </body>

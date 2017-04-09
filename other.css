@@ -14,15 +14,20 @@ div.background {
 }
 
 div.transbox {
-    margin: 30px;
+    position: relative;
+    margin: 30px 30px 30px 30px ;
     background-color: #ffffff;
     border: 1px solid black;
-    opacity: 0.6;
-    filter: alpha(opacity=60); /* For IE8 and earlier */
+    opacity: 0.85;
+    filter: alpha(opacity=85); /* For IE8 and earlier */
+    text-align: center;
 }
 
-div.transbox p {
+div.transbox div {
     margin: 5%;
+    height: 90%;
     font-weight: bold;
     color: #000000;
+    opacity: 1 !IMPORTANT;
+    filter: alpha(opacity=100) !IMPORTANT; /* For IE8 and earlier */
 }
