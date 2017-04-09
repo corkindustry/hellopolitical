@@ -38,9 +38,13 @@
   <section>
     <div class="transbox">
       <div ng-repeat="x in candidates" class="cards" style="display:inline-block">
-        <img ng-src="{{ x.photo_url }}"/ style="width: 150px; float: left;">
+        <img ng-src="{{ x.photo_url }}"/ style="width: 200px; float: left;">
         <h3>{{ x.candidate_name }}</h3>
         <h4>{{ x.office }}</h4>
+        <div ng-repeat="i in x.issues">
+          <p>{{ i.issue_name }}</p>
+          <p>{{ i.issue_text }}</p>
+        </div>
       </div>
     </div>
  </section>
