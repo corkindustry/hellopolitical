@@ -96,7 +96,9 @@
          {
             "issue_name":"Kittens",
             "issue_text":"Kittens are pretty awesome, but inferior to dogs."
-         },
+         }
+      ]
+   },
    {
       "candidate_name":"Calvin  Sidle ",
       "bio":"I'm a big need and I'd like to fix the world.",
@@ -120,8 +122,6 @@
             "issue_name":"Infrastructure",
             "issue_text":"We need to fix it."
          }
-      ]
-   }
       ]
    }
 ]
