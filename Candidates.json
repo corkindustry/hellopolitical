@@ -66,7 +66,7 @@
          }
       ]
    },
-      {
+   {
       "candidate_name":"Jim Wayne",
       "bio":"Married to Debbie Scherer Wayne. Pres, Wayne Corp, providers of employee assistance and mental health programs. Roman Catholic. Maryknoll College, BA. Maryknoll School of Theology, MA. Smith College School for Social Work, MSW. Spalding Univ, MFA. Louisville Coalition for the Homeless. KY Soc for Clinical Social Work, past Pres. Natl Assoc of Social Workers. Metropolitan Housing Coalition. KY Housing Policy Committee. Airport Neighbors' Alliance Inc. Community Catholic Ctr, Bd Chair. Sierra Club. Natl Trust for Historic Preservation. KY for the Commonwealth. Gov Blue Ribbon Commission on Tax Reform 2012. The Unfinished Man, Fleur-de-Lis Press, 2016, Author",
       "photo_url":"http://www.lrc.ky.gov/pubinfo/thumbnails/House35.jpg",
@@ -85,15 +85,17 @@
             "issue_name":"House Rule 49",
             "issue_text":"I believe that House Rule 49 is used for obstruction and slows the legislative process."
          },
-                  {
+         {
             "issue_name":"Home Rule",
             "issue_text":"I believe that the State Legislature to respect the home rule of Louisville and other metro areas."
          },
-                  {
+         {
             "issue_name":"Midwifery",
             "issue_text":"Midwives should have a respected and regulated profession within the commonwealth."
-         },
-               {
+         }
+      ]
+   },
+   {
       "candidate_name":"Zac Caldwell",
       "bio":"These are words that are going to be used to promote me as Governor. I would be a very good Governor, the best Governor, Bigly. ",
       "photo_url":"https://scontent.xx.fbcdn.net/v/t1.0-9/12928207_10207342851148306_1865670732237728175_n.jpg?oh=eb3c26e4c50118b2f834d3a92bc05437&oe=595716F4",
@@ -112,11 +114,11 @@
             "issue_name":"Abortion",
             "issue_text":"I believe that women are capable of making their own reproductive choices, and that abortion bans are dangerous and counter-productive."
          },
-                  {
+         {
             "issue_name":"Home Rule",
             "issue_text":"I believe that policy and home rule should be above party politics."
          },
-                  {
+         {
             "issue_name":"Kittens",
             "issue_text":"Kittens are pretty awesome, but inferior to dogs."
          }
