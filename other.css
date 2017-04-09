@@ -17,6 +17,11 @@ background-size: cover;
   padding: 10px;
 }
 
+.cards .issues {
+    width: 300px;
+    border: 1px solid black;
+}
+
 div.background {
     background: url(voting_booth_bg.jpeg);
     border: 2px solid black;
