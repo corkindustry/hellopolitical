@@ -68,10 +68,7 @@
     <div class="transbox">
       <div ng-repeat="x in candidates" class="cards d-inline-block">
         <img ng-src="{{ x.photo_url }}"/ style="width: 200px; float: left;">
-        <div style="width: 200px; float: left;">
-            <button type="button" class="btn btn-primary" style="width:50%;">Donate</button>
-            <button type="button" class="btn btn-info" style="width:50%;">Learn More</button>
-        </div>
+
         <h3>{{ x.candidate_name }}</h3>
         <h4>{{ x.office }}</h4>
         <div class="issues">
@@ -79,6 +76,10 @@
             <dt>{{ i.issue_name }}</dt>
             <dd>{{ i.issue_text }}</dd>
           </dl>
+         <div style="width: 200px; float: left;">
+          <button type="button" class="btn btn-primary" style="width:50%;">Donate</button>
+          <button type="button" class="btn btn-info" style="width:50%;">Learn More</button>
+        </div>
         </div>
       </div>
     </div>
