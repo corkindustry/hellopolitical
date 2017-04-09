@@ -6,4 +6,5 @@ background: url(voting_booth_bg.jpeg) no-repeat center center fixed;
 -moz-background-size: cover;
 -o-background-size: cover;
 background-size: cover;
+opacity: .5;
 }
