@@ -26,4 +26,6 @@ div.transbox p {
     margin: 5%;
     font-weight: bold;
     color: #000000;
+    opacity: 1
+    filter: alpha(opacity=100; /* For IE8 and earlier */
 }
